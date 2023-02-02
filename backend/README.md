@@ -1,5 +1,11 @@
 # Sonastream Backend Takehome
 
+     ___  _____  _  _    __      ___  ____  ____  ____    __    __  __ 
+    / __)(  _  )( \( )  /__\    / __)(_  _)(  _ \( ___)  /__\  (  \/  )
+    \__ \ )(_)(  )  (  /(__)\   \__ \  )(   )   / )__)  /(__)\  )    ( 
+    (___/(_____)(_)\_)(__)(__)  (___/ (__) (_)\_)(____)(__)(__)(_/\/\_)
+
+
 ## Description
 The goal of this takehome excercise is to create a URL shortener similar to bitly or dub. We prefer submissions to use Typescript or Golang, but are open to an implementation in any language of your choosing.
 
@@ -26,3 +32,6 @@ The goal of this takehome excercise is to create a URL shortener similar to bitl
 - Email your point of contact that sent you this excercise with a link to a public Github or Gitlab repository.
     - If you are uncomfortable adding this project to your public Github profile, please make a separate account for this submission
 
+## Notes
+- The preferred method of running this project is a `Dockerfile` or `docker-compose.yml` that does not require the takehome consumer to install anything to run and evaluate the project
+- Please show us strengths of your engineering abilities, technical design and attention to detail. While small/simple, this takehome is the main way we will assess your technical abilities. 
