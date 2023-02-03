@@ -7,7 +7,7 @@
 
 
 ## Description
-The goal of this takehome excercise is to create a URL shortener similar to bitly or dub. We prefer submissions to use Typescript or Golang, but are open to an implementation in any language of your choosing.
+The goal of this takehome exercise is to create a URL shortener similar to bitly or dub. We prefer submissions to use Typescript or Golang, but are open to an implementation in any language of your choosing.
 
 
 ## Requirements
@@ -29,7 +29,7 @@ The goal of this takehome excercise is to create a URL shortener similar to bitl
 - Implement your solution, including test cases for the application code (integration tests are a plus)
 - Include a `README.md` that describes how to set up, run and test your application
 - Include any notes for our engineering team that describes your approaches and assumptions
-- Email your point of contact that sent you this excercise with a link to a public Github or Gitlab repository.
+- Email your point of contact that sent you this exercise with a link to a public Github or Gitlab repository.
     - If you are uncomfortable adding this project to your public Github profile, please make a separate account for this submission
 
 ## Notes

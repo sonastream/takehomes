@@ -5,7 +5,7 @@
     (___/(_____)(_)\_)(__)(__)  (___/ (__) (_)\_)(____)(__)(__)(_/\/\_)
 
 ## Description
-The goal of this takehome excercise is to create a simple dashboard for a link shortener similar to bitly or dub. We prefer submissions to use Typescript, React and Tailwind, but are open to any implementation library or framework or css framework you are most comfortable with.
+The goal of this takehome exercise is to create a simple dashboard for a link shortener similar to bitly or dub. We prefer submissions to use Typescript, React and Tailwind, but are open to any implementation library or framework or css framework you are most comfortable with.
 
 This nested repository `frontend`  contains `./links.json` which is a local array of links returned from a database with the following shape:
 
@@ -35,7 +35,7 @@ This nested repository `frontend`  contains `./links.json` which is a local arra
 - Implement your solution, including test cases for the application code (integration tests are a plus)
 - Include a `README.md` that describes how to set up, run and test your application
 - Include any notes for our engineering team that describes your approaches and assumptions
-- Email your point of contact that sent you this excercise with a link to a public Github or Gitlab repository.
+- Email your point of contact that sent you this exercise with a link to a public Github or Gitlab repository.
     - If you are uncomfortable adding this project to your public Github profile, please make a separate account for this submission
 
 ## Notes
