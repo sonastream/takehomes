@@ -34,4 +34,4 @@ The goal of this takehome exercise is to create a URL shortener similar to bitly
 
 ## Notes
 - The preferred method of running this project is a `Dockerfile` or `docker-compose.yml` that does not require the takehome consumer to install anything to run and evaluate the project
-- Please show us strengths of your engineering abilities, technical design and attention to detail. While small/simple, this takehome is the main way we will assess your technical abilities. 
+- Please show us the strength of your engineering abilities, technical design and attention to detail. While small/simple, this takehome is the main way we will assess your technical abilities. 

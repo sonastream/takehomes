@@ -27,4 +27,4 @@ The goal of this takehome exercise is to create an upgradeable, NFT minting cont
     - If you are uncomfortable adding this project to your public Github profile, please make a separate account for this submission
 
 ## Notes
-- Please show us strengths of your engineering abilities, technical design and attention to detail. While small/simple, this takehome is the main way we will assess your technical abilities. 
+- Please show us the strength of your engineering abilities, technical design and attention to detail. While small/simple, this takehome is the main way we will assess your technical abilities. 
