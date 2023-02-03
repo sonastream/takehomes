@@ -10,4 +10,4 @@ The following are a set of takehomes given to Sona Engineering candidates for Ba
 ## Table of Contents
 - [Backend Takehome](backend/README.md)
 - [Frontend Takehome](frontend/README.md)
-- [Protocol Takehome](frontend/README.md)
+- [Protocol Takehome](protocol/README.md)
